@@ -56,7 +56,7 @@ Which ones of the following statements on Residual Networks are true? (Check all
 
 > The skip-connections compute a complex non-linear function of the input to pass to a deeper layer in the network.
 
-A ResNet with L layers would have on the order of L2 skip connections in total.
+> A ResNet with L layers would have on the order of L2 skip connections in total.
 
 The skip-connection makes it easy for the network to learn an identity mapping between the input and the output within the ResNet block.
 
@@ -80,9 +80,9 @@ Suppose you have an input volume of dimension nH x nW x nC. Which of the followi
 
 You can use a 1x1 convolutional layer to reduce nH, nW, and nC.
 
-You can use a pooling layer to reduce nH, nW, but not nC.
+> You can use a pooling layer to reduce nH, nW, but not nC.
 
-> You can use a pooling layer to reduce nH, nW, and nC.
+You can use a pooling layer to reduce nH, nW, and nC.
 
 ### 9
 Which ones of the following statements on Inception Networks are true? (Check all that apply.)
