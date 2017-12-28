@@ -37,7 +37,7 @@ Note: the last course of Deep Learning, Sequence Modelling is not available yet.
   
 - Course 3: Structuring Machine Learning Projects
 
- - [Week 1 Quiz - Bird recognition in the city of Peacetopia (case study)](https://github.com/EvanWang2015/Deep-Learning/blob/master/Structuring%20Machine%20Learning%20Projects/quiz%201_bird%20recogintion%20in%20the%20city%20of%20peacetopia.pdf)
- - [Week 2 Quiz - Autonomous driving (case study)](https://github.com/EvanWang2015/Deep-Learning/blob/master/Structuring%20Machine%20Learning%20Projects/quiz%202_Autonomous%20driving_Case%20study.pdf)
+  - [Week 1 Quiz - Bird recognition in the city of Peacetopia (case study)](https://github.com/EvanWang2015/Deep-Learning/blob/master/Structuring%20Machine%20Learning%20Projects/quiz%201_bird%20recogintion%20in%20the%20city%20of%20peacetopia.pdf)
+  - [Week 2 Quiz - Autonomous driving (case study)](https://github.com/EvanWang2015/Deep-Learning/blob/master/Structuring%20Machine%20Learning%20Projects/quiz%202_Autonomous%20driving_Case%20study.pdf)
  
 - Course 4: Convolution Neural Networks
