@@ -45,7 +45,7 @@ Note: the last course of Deep Learning, Sequence Modelling is not available yet.
   - [Week 1 - PA 1 - Convolutional Model: step by step](https://github.com/EvanWang2015/Deep-Learning/blob/master/Convolution%20Neural%20Networks/Convolution%20model%20step%20by%20step.ipynb)
   - [Week 1 - PA 2 - Convolutional Model: application](https://github.com/EvanWang2015/Deep-Learning/blob/master/Convolution%20Neural%20Networks/Convolution%20model%20Application.ipynb)
   - [Week 2 - PA 3 - Residual Networks](https://github.com/EvanWang2015/Deep-Learning/blob/master/Convolution%20Neural%20Networks/Residual%20Networks.ipynb)
-  - [Week 3 - PA 4 - Car detection with YOLOv2[(https://github.com/EvanWang2015/Deep-Learning/blob/master/Convolution%20Neural%20Networks/Autonomouscdriving%20application%20Car%20detection.ipynb)
+  - [Week 3 - PA 4 - Car detection with YOLOv2](https://github.com/EvanWang2015/Deep-Learning/blob/master/Convolution%20Neural%20Networks/Autonomouscdriving%20application%20Car%20detection.ipynb)
   - [Week 4 - PA 5 - Art Generation with Neural Style Transfer](https://github.com/EvanWang2015/Deep-Learning/blob/master/Convolution%20Neural%20Networks/Art%20Generation%20with%20Neural%20Style%20Transfer.ipynb)
   - [Week 4 - PA 6 - Face Recognition for the Happy House](https://github.com/EvanWang2015/Deep-Learning/blob/master/Convolution%20Neural%20Networks/Face%20Recognition%20for%20the%20Happy%20House.ipynb)
   Note: there was a grading issue on face recognition for the happy house while I was doing my assignment. I had to change the axis value from -1 to None to pass the grader.
