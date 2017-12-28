@@ -26,3 +26,11 @@ Note: the last course of Deep Learning, Sequence Modelling is not available yet.
   - [Week 3 - PA 2 - Planar data classification with one hidden layer](https://github.com/EvanWang2015/Deep-Learning/blob/master/Neural%20Network_Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
   - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step](https://github.com/EvanWang2015/Deep-Learning/blob/master/Neural%20Network_Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20Step%20by%20Step.ipynb)
   - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application](https://github.com/EvanWang2015/Deep-Learning/blob/master/Neural%20Network_Deep%20Learning/Deep%20Neural%20Network%20Application.ipynb)
+  
+- Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+
+  - [Week 1 - PA 1 - Initialization](https://github.com/EvanWang2015/Deep-Learning/blob/master/Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
+  - [Week 1 - PA 2 - Regularization](https://github.com/EvanWang2015/Deep-Learning/blob/master/Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization.ipynb)
+  - [Week 1 - PA 3 - Gradient Checking](https://github.com/EvanWang2015/Deep-Learning/blob/master/Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Gradient%20Checking.ipynb)
+  - [Week 2 - PA 4 - Optimization Methods](https://github.com/EvanWang2015/Deep-Learning/blob/master/Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Optimization%20methods.ipynb)
+  - [Week 3 - PA 5 - TensorFlow Tutorial](https://github.com/EvanWang2015/Deep-Learning/blob/master/Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Tensorflow%20Tutorial.ipynb)
