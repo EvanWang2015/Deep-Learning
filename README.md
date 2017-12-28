@@ -19,3 +19,10 @@ I hope this work will be somehow useful to you.
 Note: the last course of Deep Learning, Sequence Modelling is not available yet. I will update it as soon as possible. 
 
 ## Programming Assignments
+
+- Course 1: Neural Networks and Deep Learning
+
+  - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](https://github.com/EvanWang2015/Deep-Learning/blob/master/Neural%20Network_Deep%20Learning/LogisticRegressionWithNeuralNetworkMindset.ipynb)
+  - [Week 3 - PA 2 - Planar data classification with one hidden layer](https://github.com/EvanWang2015/Deep-Learning/blob/master/Neural%20Network_Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
+  - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step](https://github.com/EvanWang2015/Deep-Learning/blob/master/Neural%20Network_Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20Step%20by%20Step.ipynb)
+  - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application](https://github.com/EvanWang2015/Deep-Learning/blob/master/Neural%20Network_Deep%20Learning/Deep%20Neural%20Network%20Application.ipynb)
